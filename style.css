@@ -1,0 +1,20 @@
+#Song_Name{
+    color: blue;
+    box-shadow: 5px 5px 5px #73cdd8;
+    width: 50;
+    height: 50;
+    
+}
+body{
+    background-size: cover;
+    background-color: #000000;
+    border : 5px solid-white;
+    border-radius: 20px;
+    
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
